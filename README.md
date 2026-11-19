@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## :link: Links
 <p align="center">
-  <a href="https://images.cybersport.ru/images/og-jpg/plain/7b/7bbb3202c2135ed0e6af73552c0af323.jpg"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  <a href="https://avatars.mds.yandex.net/i?id=d0ea0a5ace0673e1ad60adc5d7b573ee_l-10150420-images-thumbs&n=13"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
 </p>
 
 <img height="120" alt="Thanks" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
