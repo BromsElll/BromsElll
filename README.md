@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 I found some funny GIFs and Images.
 Here there are
 
-<img src="https://github.com/user-attachments/assets/1a01b5ae-dcd8-48f1-a55a-c758caceb524" alt="chipmunk">
+<img src="https://github.com/user-attachments/assets/1a01b5ae-dcd8-48f1-a55a-c758caceb524" alt="chipmunk" width="460" height="auto">
