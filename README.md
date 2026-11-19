@@ -1,8 +1,6 @@
 ## Never gonna say goodbye 👋
 
 <h4>My name is BromsElll. This is my perfect github profile. You will never find better profile than mine. Here is a moon emoji 🌒</h4>
-<!--
-**BromsElll/BromsElll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
