@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: no
 - ⚡ Fun fact: github
 -->
+<div>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+</div>
