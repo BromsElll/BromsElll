@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://images.meme-arsenal.com/addfe5d3028fa5821089951d4ce06296.jpg" width="1080" height="auto" /></a>
 </div>
 
-I found some funny GIFs and Images. \n
+I found some funny GIFs and Images. 
 Here they are
 
 <img src="https://github.com/user-attachments/assets/1a01b5ae-dcd8-48f1-a55a-c758caceb524" alt="chipmunk" width="460" height="auto">
