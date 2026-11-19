@@ -6,6 +6,8 @@
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://images.meme-arsenal.com/addfe5d3028fa5821089951d4ce06296.jpg" width="1080" height="auto" /></a>
 </div>
 
+<br />
+
 I found some funny GIFs and Images. 
 <br />
 Here they are
@@ -25,3 +27,5 @@ Here are some ideas to get you started:
 
 <img height="120" alt="Thanks" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
+#LINKS
+
