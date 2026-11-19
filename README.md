@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: no
 - ⚡ Fun fact: github
 
-<img height="120" alt="NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIICE" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
