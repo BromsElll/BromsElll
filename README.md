@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: no
 - 😄 Pronouns: no
 - ⚡ Fun fact: github
+<br />
+
+## :link: Links
 
 <img height="120" alt="Thanks" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
-#LINKS
 
