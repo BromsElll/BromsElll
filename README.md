@@ -1,6 +1,6 @@
 ## Never gonna say goodbye 👋
 
-My name is BromsElll. This is my perfect github profile. You will never find better profile than mine. Here is a moon emoji 🌒
+<h4>My name is BromsElll. This is my perfect github profile. You will never find better profile than mine. Here is a moon emoji 🌒</h4>
 <!--
 **BromsElll/BromsElll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +23,6 @@ I found some funny GIFs and Images.
 Here they are
 
 <img src="https://github.com/user-attachments/assets/1a01b5ae-dcd8-48f1-a55a-c758caceb524" alt="chipmunk" width="460" height="auto">
+
+<img height="120" alt="NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIICE" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
